@@ -3,3 +3,4 @@ node_modules/
 .env
 Icon?
 ![iI]con[_a-zA-Z0-9-]
+dist/
